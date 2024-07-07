@@ -2,26 +2,6 @@
 
 ![Portfolio Website](https://github.com/atharva-narkhede/Portfolio-Website-React/assets/106006803/e24ba60d-98e5-4039-808b-3245ab3a338e)
 
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/atharva-narkhede/Portfolio-Website-React?color=yellow) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-</div>
-
-<table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td><a href="https://github.com/atharva-narkhede/Portfolio-Website-React">Project</a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/atharva-narkhede/Portfolio-Website-React?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/atharva-narkhede/Portfolio-Website-React?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/atharva-narkhede/Portfolio-Website-React?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/atharva-narkhede/Portfolio-Website-React?style=flat&logo=github"/></td>
-            <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/atharva-narkhede/Portfolio-Website-React?style=flat&color=critical&logo=github"/></td>
-        </tr>
-    </thead>
-</table>
-
-<br/>
 
 ## 📋 Project Overview
 
