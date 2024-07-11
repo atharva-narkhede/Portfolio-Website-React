@@ -10,7 +10,6 @@ import {
 } from "react-icons/ai";
 import { GiSkills } from "react-icons/gi";
 import { CgFileDocument } from "react-icons/cg";
-import { BsFillAwardFill } from "react-icons/bs"; // Import the certificate icon
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -91,24 +90,12 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/certificate"
-                onClick={() => updateExpanded(false)}
-              >
-                <BsFillAwardFill style={{ marginBottom: "2px" }} /> Certificates
-              </Nav.Link>
-            </Nav.Item>
-
-            <Nav.Item>
-              <Nav.Link
-                as={Link}
                 to="/contact"
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineContacts style={{ marginBottom: "2px" }} /> Contact Me
               </Nav.Link>
             </Nav.Item>
-
-            
 
           </Nav>
         </Navbar.Collapse>

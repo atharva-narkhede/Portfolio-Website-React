@@ -1,22 +1,21 @@
 import React, { useState, useEffect } from "react";
 import {
   BrowserRouter as Router,
-  Route, 
-  Routes, 
+  Route,
+  Routes,
   Navigate
 } from "react-router-dom";
 
-import Home from './pages/Home';
-import Skill from './pages/Skillset';
-import Project from './pages/Projects';
-import Resume from './pages/Resume';
-import Contact from './pages/Contact';
-import Certificate from './pages/Certificate'; // Import the Certificate component
+import Home from './pages/Home'
+import Skill from './pages/Skillset'
+import Project from './pages/Projects'
+import Resume from './pages/Resume'
+import Contact from './pages/Contact'
 
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
-import Preloader from "./components/PreLoader";
-import ScrollToTop from "./components/ScrollToTop";
+import Preloader from "./components/PreLoader"
+import ScrollToTop from "./components/ScrollToTop"
 
 import "./App.css";
 import "./style.css";
@@ -45,7 +44,6 @@ function App() {
           <Route path="/project" element={<Project />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/certificate" element={<Certificate />} /> {/* Add the new route */}
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
