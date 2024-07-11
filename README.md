@@ -1,6 +1,6 @@
 # React Portfolio Website
 
-![Portfolio Website](https://github.com/atharva-narkhede/Portfolio-Website-React/assets/106006803/e24ba60d-98e5-4039-808b-3245ab3a338e)
+![Portfolio Website](https://github.com/atharva-narkhede/Portfolio-Website-React/assets/106006803/c081b1ba-a04a-4553-868d-845511d9f1fa)
 
 
 ## 📋 Project Overview
