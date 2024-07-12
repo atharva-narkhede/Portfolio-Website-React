@@ -14,9 +14,24 @@ const certificates = [
     link: "https://drive.google.com/file/d/1t39tC40vgc7z2fEN34nFG8EKTC7TuR59/view?usp=sharing",
   },
   {
+    imgPath: "https://i.ibb.co/441whP9/Bharat-Internship-Completion.jpg",
+    title: "Android Development Intership (Bharat Intern)",
+    link: "https://drive.google.com/file/d/1clQFlX4tDGs9ZJs2AJBKJsWzlAhiFcGL/view?usp=sharing",
+  },
+  {
     imgPath: "https://i.ibb.co/nzHK0Gm/java.jpg",
     title: "Learn JAVA Programming - Beginner to Master (Udemy)",
     link: "https://www.udemy.com/certificate/UC-db8161f5-72b6-441c-be36-fd6c9faea245/",
+  },
+  {
+    imgPath: "https://i.ibb.co/dLtJCfx/IMG-20230403-WA0003.jpg",
+    title: "Hand On Blockchain Workshop (SRM University AP)",
+    link: "https://drive.google.com/file/d/1FLfVFLJkkTfDyRWEgjuk4oFTM5b1RrZs/view?usp=drive_link",
+  },
+  {
+    imgPath: "https://i.ibb.co/xzNDtBG/Drone-Internship-Certificate.jpg",
+    title: "War of Drones Workshop (SRM University AP)",
+    link: "https://drive.google.com/file/d/1_-DIROZmT1hpDLCMxXgkYugKjlSZp0kp/view?usp=sharing",
   },
   {
     imgPath: "https://i.ibb.co/PC6nT6x/c.jpg",
