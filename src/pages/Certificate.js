@@ -4,6 +4,11 @@ import Particle from "../components/Particle";
 
 const certificates = [
   {
+    imgPath: "https://i.ibb.co/mXSXzWJ/Postman-Postman-API-Fundamentals-Student-Expert-2024-07-13.png",
+    title: "Postman API Fundamentals Student Expert",
+    link: "https://api.badgr.io/public/assertions/c8nkmIt_TgaO6jpKe_9E8w?identity__email=atharvan12345%40gmail.com",
+  },
+  {
     imgPath: "https://i.ibb.co/fdg1JvZ/flutter.jpg",
     title: "The Complete Flutter Development Bootcamp with Dart (Udemy)",
     link: "https://www.udemy.com/certificate/UC-09d4aaff-8f9e-4ac5-8699-8b4170b3dae1/",
@@ -80,8 +85,8 @@ const Certificate = () => {
                   src={cert.imgPath}
                   alt="Certificate"
                   style={{
-                    height: "200px", // Adjust height to make the image smaller
-                    objectFit: "cover",
+                    height: "250px", // Adjust height to make the image smaller
+                    objectFit: "contain",
                     borderRadius: "10px 10px 0 0",
                   }}
                 />
